@@ -10,8 +10,8 @@
   "plugins": [
     {
       "name": "game-sounds",
-      "description": "91 iconic game sounds for Claude Code — Warcraft, StarCraft, Diablo, C&C, Mario, Zelda",
-      "version": "1.1.2",
+      "description": "127 game sounds for Claude Code — 12 packs: Warcraft, StarCraft, MK, SF, CS, MGS, Sonic, Pac-Man & more",
+      "version": "1.2.0",
       "author": {
         "name": "Citedy",
         "email": "hello@citedy.com"

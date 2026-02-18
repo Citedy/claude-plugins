@@ -16,7 +16,10 @@
         "name": "Citedy",
         "email": "hello@citedy.com"
       },
-      "source": "github:Citedy/game-sounds",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Citedy/game-sounds.git"
+      },
       "category": "productivity"
     }
   ]

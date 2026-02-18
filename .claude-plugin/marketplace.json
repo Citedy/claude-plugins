@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "citedy",
+  "description": "Citedy plugins for Claude Code — game sounds, SEO tools, and more",
+  "owner": {
+    "name": "Citedy",
+    "email": "hello@citedy.com",
+    "url": "https://www.citedy.com"
+  },
+  "plugins": [
+    {
+      "name": "game-sounds",
+      "description": "Warcraft Peon voice lines for Claude Code — \"Work work!\" on prompt, \"Job's done!\" on completion",
+      "version": "1.0.1",
+      "author": {
+        "name": "Citedy",
+        "email": "hello@citedy.com"
+      },
+      "source": "github:Citedy/game-sounds",
+      "category": "productivity"
+    }
+  ]
+}

@@ -49,6 +49,20 @@
         "url": "https://github.com/Citedy/seo-roast.git"
       },
       "category": "productivity"
+    },
+    {
+      "name": "speed-roast",
+      "description": "Website speed audit CLI with 26 celebrity persona roasts — TTFB, compression, caching, scripts & more. Zero dependencies, zero API keys.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Citedy",
+        "email": "hello@citedy.com"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Citedy/speed-roast.git"
+      },
+      "category": "productivity"
     }
   ]
 }

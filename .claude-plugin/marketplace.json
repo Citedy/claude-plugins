@@ -35,6 +35,20 @@
         "url": "https://github.com/Citedy/citedy-seo-agent.git"
       },
       "category": "productivity"
+    },
+    {
+      "name": "seo-roast",
+      "description": "SEO audit CLI with 26 celebrity persona roasts — Musk, Trump, Hemingway, Dostoevsky, MrBeast, Taylor Swift & more. Zero dependencies, zero API keys.",
+      "version": "1.0.2",
+      "author": {
+        "name": "Citedy",
+        "email": "hello@citedy.com"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Citedy/seo-roast.git"
+      },
+      "category": "productivity"
     }
   ]
 }

@@ -10,8 +10,8 @@
   "plugins": [
     {
       "name": "game-sounds",
-      "description": "145 game sounds for Claude Code — 14 packs: Warcraft, StarCraft, MK, SF, CS, MGS, UT, GTA, Sonic, Pac-Man & more",
-      "version": "1.3.0",
+      "description": "167 game sounds for Claude Code — 17 packs: Warcraft, Doom, Quake, Silent Hill, MK, SF, CS, MGS & more",
+      "version": "1.4.0",
       "author": {
         "name": "Citedy",
         "email": "hello@citedy.com"

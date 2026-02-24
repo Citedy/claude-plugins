@@ -24,8 +24,8 @@
     },
     {
       "name": "citedy-seo-agent",
-      "description": "SEO content automation — trend scouting, competitor analysis, article generation in 55 languages with AI illustrations and voice-over, social adaptations, lead magnets, turbo mode, and cron sessions",
-      "version": "2.4.0",
+      "description": "AI Marketing Agent — SEO, GEO, trend scouting, competitor analysis, article generation in 55 languages, social adaptations (X, LinkedIn, Facebook, Reddit, Threads, Instagram, Shopify), lead magnets, turbo mode, cron sessions",
+      "version": "2.4.1",
       "author": {
         "name": "Citedy",
         "email": "hello@citedy.com"

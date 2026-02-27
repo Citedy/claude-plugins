@@ -10,8 +10,8 @@
   "plugins": [
     {
       "name": "game-sounds",
-      "description": "166 game sounds for Claude Code — 17 packs: Warcraft, Doom, Quake, Silent Hill, MK, SF, CS, MGS & more",
-      "version": "1.4.2",
+      "description": "225 game sounds for Claude Code — 28 packs: Warcraft, Batman, Matrix, Harry Potter, Game of Thrones, Star Trek, LOTR & more",
+      "version": "2.0.0",
       "author": {
         "name": "Citedy",
         "email": "hello@citedy.com"

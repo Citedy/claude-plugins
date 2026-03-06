@@ -10,8 +10,8 @@
   "plugins": [
     {
       "name": "game-sounds",
-      "description": "225 game sounds for Claude Code — 28 packs: Warcraft, Batman, Matrix, Harry Potter, Game of Thrones, Star Trek, LOTR & more",
-      "version": "2.0.0",
+      "description": "552 game sounds for Claude Code — 63 packs: Warcraft, Batman, Matrix, DuckTales, Castlevania, Mega Man, Kirby, Indiana Jones & more",
+      "version": "3.0.0",
       "author": {
         "name": "Citedy",
         "email": "hello@citedy.com"

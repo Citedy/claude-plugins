@@ -24,8 +24,8 @@
     },
     {
       "name": "citedy-seo-agent",
-      "description": "AI Marketing Agent — SEO, GEO, trend scouting, competitor analysis, article generation in 55 languages, social adaptations (X, LinkedIn, Facebook, Reddit, Threads, Instagram, Instagram Reels, YouTube Shorts, Shopify), shorts video, content ingestion, lead magnets, turbo mode, automated content autopilot. Includes 5 focused skills: video-shorts, content-ingestion, trend-scout, lead-magnets, content-writer.",
-      "version": "3.1.0",
+      "description": "AI Marketing Agent — SEO, GEO, trend scouting, competitor analysis, article generation in 55 languages, social adaptations (X, LinkedIn, Facebook, Reddit, Threads, Instagram, Instagram Reels, YouTube Shorts, Shopify), AI UGC viral video with direct publish to Instagram Reels and YouTube Shorts, content ingestion, lead magnets, turbo mode, webhooks, automated content autopilot. Includes 5 focused skills: video-shorts, content-ingestion, trend-scout, lead-magnets, content-writer.",
+      "version": "3.5.0",
       "author": {
         "name": "Citedy",
         "email": "hello@citedy.com"
